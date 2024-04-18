@@ -2,7 +2,7 @@ Single page application project assigned to leaners as culmination of the front-
 This project required the learners to apply and showcase the various technologies and skills learned during the different sprints of the course.
 
 
-# Bake My Cake 
+# Bake My Cake (Site Hosting Repo Only)
 
 A single page application using Angular — Bake My Cake, that allows customers to make an online request for cakes, cookies, or brownies of their choice.
 
