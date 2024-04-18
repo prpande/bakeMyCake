@@ -8,6 +8,8 @@ A single page application using Angular — Bake My Cake, that allows customers 
 
 > !!! NOTE : Order PUT/POST not functional due to limitation of free hosting Json-Server supporting only GET requests. Works as expected on local host !!!
 
+[Source Code](https://github.com/prpande/niit-fsd/tree/master/C9-Project-BakeMyCake-1011/soln)
+
 ## Project Requirements
 
 - Create a streamlined and user-friendly single-page application utilizing Angular, named "Bake My Cake," designed to facilitate online requests for customized cakes, cookies, or brownies. 
