@@ -9,6 +9,7 @@ This project required the learners to apply and showcase the various technologie
 A single page application using Angular — Bake My Cake, that allows customers to make an online request for cakes, cookies, or brownies of their choice.
 
 > !!! NOTE : Order PUT/POST not functional due to limitation of free hosting Json-Server supporting only GET requests. Works as expected on local host !!!
+>  https://my-json-server.typicode.com/prpande/bakemycake
 
 ## Project Requirements
 
