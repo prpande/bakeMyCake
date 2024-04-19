@@ -1,14 +1,14 @@
-Single page application project assigned to leaners as culmination of the front-end course curriculum of the Full Stack Developer program at NIIT.
+Single page application project assigned to leaners as culmination of the front-end course curriculum of the Full Stack Developer program.
 This project required the learners to apply and showcase the various technologies and skills learned during the different sprints of the course.
 
+> This is Angular SPA hosting Repo.  
+> [Angular Source Code](https://github.com/prpande/niit-fsd/tree/master/C9-Project-BakeMyCake-1011/soln)
 
-# Bake My Cake (Site Hosting Repo Only)
+# [Bake My Cake](https://prpande.github.io/bakeMyCake/) 
 
 A single page application using Angular — Bake My Cake, that allows customers to make an online request for cakes, cookies, or brownies of their choice.
 
 > !!! NOTE : Order PUT/POST not functional due to limitation of free hosting Json-Server supporting only GET requests. Works as expected on local host !!!
-
-[Source Code](https://github.com/prpande/niit-fsd/tree/master/C9-Project-BakeMyCake-1011/soln)
 
 ## Project Requirements
 
